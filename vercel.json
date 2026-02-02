@@ -1,6 +1,4 @@
-{
-  "rewrites": [
-    { "source": "/loginact", "destination": "/Loginform.html" }
-  ]
-}
+  "redirects": [
+    { "source": "/loginact", "destination": "/Loginform.html", "permanent": false }
+]
  
